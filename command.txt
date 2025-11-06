@@ -1,0 +1,11 @@
+pwd touch command.txt ls
+cd downloads
+mkdir filename
+touch filename 
+rm -r foldername
+cd 
+rm n no of file name
+history
+clear
+cat
+rm filename  
