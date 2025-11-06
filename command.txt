@@ -9,3 +9,4 @@ history
 clear
 cat
 rm filename  
+wertyui
